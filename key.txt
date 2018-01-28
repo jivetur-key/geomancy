@@ -1,0 +1,16 @@
+ via;1,1,1,1
+ puer;1,1,2,1
+ puella;1,2,1,1;
+ caput draconis;2,1,1,1
+ cauda draconis; 1,1,1,2
+ Amissio;1,2,1,2
+ Acquisitio;2,1,2,1
+ carcer;1,2,2,1
+ conjunctio;2,1,1,2
+ fortuna major;2,2,1,1
+ fortuna minor;1,1,2,2
+ albus;2,2,1,2
+ rubeus;2,1,2,2
+ trisitia;2,2,2,1
+ latitia;1,2,2,2
+ populus;2,2,2,2
