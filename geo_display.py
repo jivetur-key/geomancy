@@ -1,4 +1,4 @@
-mport pygame, draw_bg , draw_figure, game_menu, set_text
+import pygame, draw_bg , draw_figure, game_menu, set_text
 
 class Geo_display():
     def __init__(self, array, names):
